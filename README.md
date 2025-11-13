@@ -1,4 +1,4 @@
-🧩 Gerador de Apresentações PPTX v2
+🧩 Gerador de Apresentações PPTX v2 TESTE
 
 "🧩 Gerador de Apresentações PPTX v2","Aplicativo Python + Tkinter que gera apresentações PowerPoint (.pptx) automaticamente a partir de comandos de texto e imagens. Ideal para criação rápida de slides com layouts personalizados e controle de conteúdo via interface gráfica simples."
 
